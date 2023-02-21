@@ -1,0 +1,7 @@
+C:\Users\danya\RiderProjects\Gorner\Gorner\bin\Debug\Gorner.exe
+C:\Users\danya\RiderProjects\Gorner\Gorner\bin\Debug\Gorner.pdb
+C:\Users\danya\RiderProjects\Gorner\Gorner\obj\Debug\Gorner.csproj.AssemblyReference.cache
+C:\Users\danya\RiderProjects\Gorner\Gorner\obj\Debug\Gorner.csproj.SuggestedBindingRedirects.cache
+C:\Users\danya\RiderProjects\Gorner\Gorner\obj\Debug\Gorner.csproj.CoreCompileInputs.cache
+C:\Users\danya\RiderProjects\Gorner\Gorner\obj\Debug\Gorner.exe
+C:\Users\danya\RiderProjects\Gorner\Gorner\obj\Debug\Gorner.pdb
